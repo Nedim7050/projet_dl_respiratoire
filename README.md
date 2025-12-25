@@ -35,14 +35,3 @@ streamlit run app/app_streamlit.py
 ```bash
 python src/train_model.py
 ```
-
-## Déploiement Streamlit Cloud
-1. Poussez ce repo sur GitHub (déjà fait).
-2. Rendez-vous sur https://share.streamlit.io/ et connectez votre compte GitHub.
-3. Sélectionnez ce repo et le fichier `app/app_streamlit.py`.
-4. Ajoutez un secret ou un stockage externe pour les données si besoin.
-
-## Remarques
-- Les images/données ne sont pas versionnées (voir `.gitignore`).
-- Le modèle fourni (`best_model.h5`) est prêt à l’emploi.
-- Pour toute question, ouvrez une issue sur GitHub.
