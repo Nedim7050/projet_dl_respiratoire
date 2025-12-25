@@ -1,0 +1,17 @@
+# Python
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.vscode/
+*.log
+*.sqlite3
+.DS_Store
+
+# Data and models (remove the next line if you want to keep models in repo)
+data/
+
+# Note: 'best_model.h5' will be pushed as requested (≈43MB)
