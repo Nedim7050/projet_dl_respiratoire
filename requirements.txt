@@ -5,4 +5,5 @@ scikit-learn
 Pillow
 streamlit
 seaborn
+altair==4.2.2
 
