@@ -6,4 +6,6 @@ Pillow
 streamlit
 seaborn
 altair==4.2.2
+tensorflow==2.15.0
+
 
